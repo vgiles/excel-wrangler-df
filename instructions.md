@@ -31,5 +31,5 @@ Download `excel-wrangle-recursive.py` into the RP4 folder. In that folder you sh
 
 Right click on the RP4 folder, and click 'services', then 'open terminal at folder'. This will open the command line.
 
-Type `python3 excel-wrangle-recursive.xlsx` and press enter, then watch the magic.
+Type `python3 excel-wrangle-recursive.py` and press enter, then watch the magic.
 
