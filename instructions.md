@@ -4,8 +4,7 @@
 
 This automation process needs Python3 installed on the host Mac. 
 
-The easiest way to do this is to use homebrew. From the commandline (logged in as admin), enter `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-
+The easiest way to do this is to use homebrew. From the commandline (logged in as admin), follow the instructions at [homebrew](https://brew.sh)
 Once this completes, still logged in as admin
 
 `brew install python3`
