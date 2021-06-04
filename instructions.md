@@ -27,9 +27,9 @@ For example, it might be `Documents/OneDrive/Assessments/2021/S1/RP4/StudentName
 In each of those folders, the resulting spreadsheets need to be included in a subfolder called `data`, which means that you'll have `RP4/StudentName/data/spreadsheet1.xlsx`, `RP4/StudentName/data/spreadsheet2.xlsx`, `RP4/StudentName/data/spreadsheet3.xlsx`.
 The excel files can be called whatever you want. The current assessment folder structure should work just fine.
 
-Download `excel-wrangle-recursive.py` into the RP4 folder. In that folder you should therefore have the .py file, and then as many folders called StudentName as necessary, within each of which will be a data folder with three excel spreadsheets.
+Download `RP4-recursive.py` into the RP4 folder. In that folder you should therefore have the .py file, and then as many folders called StudentName as necessary, within each of which will be a data folder with three excel spreadsheets.
 
 Right click on the RP4 folder, and click 'services', then 'open terminal at folder'. This will open the command line.
 
-Type `python3 excel-wrangle-recursive.py` and press enter, then watch the magic.
+Type `python3 RP4-recursive.py` and press enter, then watch the magic.
 
